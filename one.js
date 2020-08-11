@@ -2,7 +2,7 @@
  * 
  */
 
-var animal = "חתולה";
+var animal = "חתולה";//tralala
 var myAnimal = "החתול שמיל";
 var myCat = " \"fff\"החתול שמיל";
 var myNumber = 42;
